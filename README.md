@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I am a Junior at NYU Tandon School of Engineering, Majoring in Computer Engineering who loves the wide possibility of Software.
+I am a Senior at NYU Tandon School of Engineering, Majoring in Computer Engineering who loves the wide possibility of Software.
 
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [bt2291@nyu.edu](mailto:bt2291@nyu.edu)
